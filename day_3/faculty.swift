@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  faculty.swift
 //  day_3
 //
 //  Created by MacStudent on 2019-10-10.
@@ -8,6 +8,8 @@
 
 import Foundation
 
-var a:Int!
-print(a)
-
+class faculty
+{
+    var facultyId: Int!
+    var facultyName: String?
+}

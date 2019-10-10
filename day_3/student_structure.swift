@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  student_structure.swift
 //  day_3
 //
 //  Created by MacStudent on 2019-10-10.
@@ -7,7 +7,8 @@
 //
 
 import Foundation
-
-var a:Int!
-print(a)
-
+struct Student
+{
+    var StudentId: Int
+    var StudentName: String
+}
